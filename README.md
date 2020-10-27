@@ -28,6 +28,7 @@
         }
     ]
 }
+
 7. The data will get created in the H2 database with Customer and Account tables with the provided values
 8. Query the URL again or you will be able to see the data in the browser.(http://localhost:8080/customers)
 9. You can also check the H2 database in memory database)
